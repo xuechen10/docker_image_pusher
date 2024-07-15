@@ -1,1 +1,1 @@
-minio/minio
+redis:6.2.7
